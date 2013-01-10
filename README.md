@@ -31,7 +31,7 @@ Look at <code>plugins.ini</code> for more examples.
 
 Theme
 -----
-Script creates one new theme into the right directory <code>wp-content/themes</code>. It also downloads from [plachehold.it](http://placehold.it "placehold.it") a screenshot.
+Script creates one new theme into the right directory <code>wp-content/themes</code>. It also downloads from [placehold.it](http://placehold.it "placehold.it") a screenshot.
 
 Contacts
 --------
