@@ -18,7 +18,7 @@ Plugins
 -------
 One plugin per line is downloaded and copied into the right directory <code>wp-content/plugins</code>.
 
-To choose plugin names, go to <code>http://wordpress.org/extend/plugins/</code>, choose your plugin and select the last part of the url.
+To choose plugin names, go to http://wordpress.org/extend/plugins/, choose your plugin and select the last part of the url.
 
 Examples:
 
