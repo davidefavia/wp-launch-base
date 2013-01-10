@@ -29,6 +29,10 @@ WP Super Cache --> http://wordpress.org/extend/plugins/wp-super-cache/ --> wp-su
 
 Look at <code>plugins.ini</code> for more examples.
 
+Theme
+-----
+Script creates one new theme into the right directory <code>wp-content/themes</code>. It also downloads from [plachehold.it](http://placehold.it "placehold.it") a screenshot.
+
 Contacts
 --------
 For any problem [file an issue](https://github.com/davidefavia/jquery-mobile-theme-lesscss/issues "jQuery Mobile theme LessCSS issues") or [ask me on Twitter](https://twitter.com/_davide "@_davide").
