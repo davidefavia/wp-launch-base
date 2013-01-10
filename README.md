@@ -23,7 +23,7 @@ To choose plugin names, go to <code>http://wordpress.org/extend/plugins/</code>,
 Examples:
 
 <pre>
-Jetpack by WordPress.com --> http://wordpress.org/extend/plugins/jetpack/ --> plugin name: jetpack
+Jetpack by WordPress.com --> http://wordpress.org/extend/plugins/jetpack/ --> jetpack
 WP Super Cache --> http://wordpress.org/extend/plugins/wp-super-cache/ --> wp-super-cache
 </pre>
 
