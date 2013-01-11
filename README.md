@@ -7,6 +7,8 @@ A simple bash script to:
 2. download a plugins list defined in <code>plugins.ini</code>,
 3. create a single theme base on the default one.
 
+Tested **ONLY** on Ubuntu 12.10, it uses wget and unzip.
+
 Options
 -------
 Script prompts two options during execution:
